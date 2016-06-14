@@ -1,5 +1,5 @@
 {
-  "name": "schemas",
+  "name": "gitify-dependencies-test-schemas",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/gitify-dependencies-test/schemas#readme",
   "dependencies": {
-    "errors": "gitify-dependencies-test/errors",
+    "gitify-dependencies-test-errors": "^1.0.1",
     "lodash": "^4.13.1"
   }
 }
